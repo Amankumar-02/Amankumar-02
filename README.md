@@ -225,8 +225,8 @@
 🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with filters, wishlist, cart
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Amankumar-02&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Amankumar-02&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar-02&theme=dark&layout=compact&hide_border=false&hide=handlebars,scss,batchfile,ejs)
 
 # 🤝 Connect with me:
