@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Aman Kumar!
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
 💻 **Full-Stack Developer** working with the **MERN stack**  
 📈 Currently focused on **upskilling** with a deep dive into **app performance** & **scalability**  
@@ -16,6 +17,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Amankumar-02&theme=dark&hide_border=false)<br/> <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar-02&theme=dark&layout=compact&hide_border=false&hide=handlebars,scss,batchfile,ejs)
 
+# 🤝 Connect with me:
+<p align="left">
+<a href="https://www.x.com/AmanKumarr04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amankumarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar" height="30" width="40" /></a>
+<a href="https://www.github.com/Amankumar-02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aman-kumar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman-kumar" height="30" width="40" /></a>
+<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman-kumar" height="30" width="40" /></a> -->
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
