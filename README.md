@@ -239,8 +239,8 @@ src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-
 
 ## 🚀 Projects:
 <!-- one -->
-<!-- ### 🔋 Full-Stack Projects:
-🎞️ [![StreamReels](https://img.shields.io/badge/-StreamReels-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamReels) — Authentic reels platform: browse, share, engage with vertical content. <br/>
+### 🔋 Full-Stack Projects:
+<!-- 🎞️ [![StreamReels](https://img.shields.io/badge/-StreamReels-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamReels) — Authentic reels platform: browse, share, engage with vertical content. <br/>
 🎥 [![StreamBlaze](https://img.shields.io/badge/-StreamBlaze-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — Video streaming platform offering YouTube-like features and functionality. <br/>
 🎵 [![EchoTunes](https://img.shields.io/badge/-EchoTunes-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — Stream your favorite music anytime, anywhere with ease. -->
 
