@@ -23,9 +23,9 @@ src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.x.com/AmanKumarr04/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) 
 [![Gmail](https://img.shields.io/badge/-Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) -->
 
 ## 💻 Tech Stack:
 <!-- ### 🧱 Languages & Fundamentals
@@ -238,10 +238,18 @@ src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-
 <!-- ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) -->
 
 ## 🚀 Projects:
+<!-- one -->
 ### 🔋 Full-Stack Projects:
-[![StreamReels](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamReels&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamReels)
+🎞️ [![StreamReels](https://img.shields.io/badge/-StreamReels-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamReels) — Authentic reels platform: browse, share, engage with vertical content. <br/>
+🎥 [![StreamBlaze](https://img.shields.io/badge/-StreamBlaze-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — Video streaming platform offering YouTube-like features and functionality. <br/>
+🎵 [![EchoTunes](https://img.shields.io/badge/-EchoTunes-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — Stream your favorite music anytime, anywhere with ease.
+
+<!-- two -->
+<!-- [![StreamReels](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamReels&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamReels)
 [![StreamBlaze](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamBlaze---Video-streaming-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app)
-[![EchoTunes](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=EchoTunes---Music-streaming-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app)
+[![EchoTunes](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=EchoTunes---Music-streaming-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) -->
+
+<!-- three -->
 <!-- ### 🎞️ <u>StreamReels</u> 
 A short-form video sharing platform with responsive design and custom playback UI.  
 🔗 [GitHub Repository](https://github.com/Amankumar-02/StreamReels)  
@@ -252,12 +260,14 @@ A media streaming app inspired by YouTube with upload, like, comment, and subscr
 🛠️ **Tech Stack**: MongoDB, Express.js, React.js, Node.js, Cloudinary, JWT -->
 
 ### 🎨 Frontend Projects:
-<!-- 🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with auth, wishlist, cart <br/>
-👩🏻‍💻 [MindMirror](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app) — A blog posting app to publically share thoughts <br/>
-🍱 [Food Explorer](https://github.com/Amankumar-02/Food-Explorer) — Food ordering app, one stop for all your cravings -->
-[![Gadget Glance](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite)
+<!-- one -->
+🛒 [![Gadget Glance](https://img.shields.io/badge/-Gadget_Glance-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — Streamlined e-commerce platform for discovering and purchasing premium electronic devices. <br/>
+👩🏻‍💻 [![MindMirror](https://img.shields.io/badge/-MindMirror-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app) — A public platform where thoughts transform into shared digital reflections. <br/>
+🍱 [![Food Explorer](https://img.shields.io/badge/-Food_Explorer-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/Food-Explorer) — One-stop food ordering app: explore, crave, order, enjoy.
+<!-- two -->
+<!-- [![Gadget Glance](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite)
 [![MindMirror](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Mind-Mirror---A-blog-sharing-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app)
-[![Food Explorer](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Food-Explorer&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Food-Explorer)
+[![Food Explorer](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Food-Explorer&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Food-Explorer) -->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/><br/>
