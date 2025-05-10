@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
 # 👋 Hi, I'm Aman Kumar
 
-## 💫 About Me
+## 💫 About Me:
 <!-- 💻 **Full-Stack Developer** working with the **MERN stack**  
 📈 Currently focused on **upskilling** with a deep dive into **app performance** & **scalability**  
 🧠 Passionate about **writing clean code**, exploring **modern dev tools**, and **system design**  
@@ -15,7 +15,19 @@
 🌱 Documenting my **#learninginpublic** journey to become an exceptional **software engineer**  
 🔍 Seeking opportunities where I can make meaningful impact while continuously growing  
 
-## 💻 Tech Stack
+<!-- <a href="https://www.github.com/Amankumar-02" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amankumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="Amankumar-02" /> </p> -->
+
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) 
+[![Gmail](https://img.shields.io/badge/-Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+
+## 💻 Tech Stack:
 <!-- ### 🧱 Languages & Fundamentals
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -225,30 +237,44 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 <!-- ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) -->
 
-## 🚀 Projects
-### 🔋 Full-Stack Projects
-🎞️ [StreamReels](https://github.com/Amankumar-02/StreamReels) — A reel viewing and posting platform <br/>
-🎥 [StreamBlaze](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — A YouTube-inspired media streaming platform <br/>
-🎵 [EchoTunes](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — A full-featured MERN stack music streaming app
+## 🚀 Projects:
+### 🔋 Full-Stack Projects:
+[![StreamReels](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamReels&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamReels)
+[![StreamBlaze](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamBlaze---Video-streaming-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app)
+[![EchoTunes](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=EchoTunes---Music-streaming-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app)
+<!-- ### 🎞️ <u>StreamReels</u> 
+A short-form video sharing platform with responsive design and custom playback UI.  
+🔗 [GitHub Repository](https://github.com/Amankumar-02/StreamReels)  
+🛠️ **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Appwrite, React Hook Form, Zod, ShadCN/UI <br />
+### 💻 StreamBlaze  
+A media streaming app inspired by YouTube with upload, like, comment, and subscription features.  
+🔗 [GitHub Repository](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app)  
+🛠️ **Tech Stack**: MongoDB, Express.js, React.js, Node.js, Cloudinary, JWT -->
 
-### 🎨 Frontend Projects
-🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with auth, wishlist, cart <br/>
+### 🎨 Frontend Projects:
+<!-- 🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with auth, wishlist, cart <br/>
 👩🏻‍💻 [MindMirror](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app) — A blog posting app to publically share thoughts <br/>
-🍱 [Food Explorer](https://github.com/Amankumar-02/Food-Explorer) — Food ordering app, one stop for all your cravings
+🍱 [Food Explorer](https://github.com/Amankumar-02/Food-Explorer) — Food ordering app, one stop for all your cravings -->
+[![Gadget Glance](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite)
+[![MindMirror](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Mind-Mirror---A-blog-sharing-app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app)
+[![Food Explorer](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Food-Explorer&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Food-Explorer)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Amankumar-02&theme=dark&hide_border=false) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar-02&theme=dark&layout=compact&hide_border=false&hide=handlebars,scss,batchfile,ejs)
+<!-- <a href="https://github.com/amankumar-02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-02&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-## 📫 Let's Connect
+<!-- ## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amankumar-02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
+
+<!-- ## 🌐 Socials:
 <p align="left">
 <a href="https://www.x.com/AmanKumarr04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amankumarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar" height="30" width="40" /></a>
 <a href="https://www.github.com/Amankumar-02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aman-kumar" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman-kumar" height="30" width="40" /></a>
-<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman-kumar" height="30" width="40" /></a> -->
-</p>
-
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman-kumar" height="30" width="40" /></a>
+</p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
