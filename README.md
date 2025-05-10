@@ -1,16 +1,21 @@
 <!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
 # 👋 Hi, I'm Aman Kumar
 
-💻 **Full-Stack Developer** working with the **MERN stack**  
+## 💫 About Me
+<!-- 💻 **Full-Stack Developer** working with the **MERN stack**  
 📈 Currently focused on **upskilling** with a deep dive into **app performance** & **scalability**  
 🧠 Passionate about **writing clean code**, exploring **modern dev tools**, and **system design**  
 🌱 **#learninginpublic** as I grow into a well-rounded **software engineer**  
-🎥 Sharing insights on **tech, code, and productivity** from my journey  
+🎥 Sharing insights on **tech, code, and productivity** from my journey -->
+💻 **Ambitious Full-Stack Developer** with strong foundation in the **MERN stack**  
+🚀 Eager to contribute fresh perspectives and innovative solutions to challenging projects  
+📈 Actively building expertise in **app performance optimization** & **scalable architecture**  
+🧠 Committed to **clean, maintainable code** and **modern development practices**  
+⚡ Proven ability to quickly master new technologies and adapt to evolving requirements  
+🌱 Documenting my **#learninginpublic** journey to become an exceptional **software engineer**  
+🔍 Seeking opportunities where I can make meaningful impact while continuously growing  
 
-
-
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 <!-- ### 🧱 Languages & Fundamentals
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -218,18 +223,19 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) -->
 
-# 🚀 Projects
+## 🚀 Projects
 🎵 [EchoTunes](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — A full-featured MERN stack music streaming app <br/>
 🎬 [StreamBlaze](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — A YouTube-inspired media streaming platform <br/>
-🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with filters, wishlist, cart
+🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with auth, wishlist, cart
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Amankumar-02&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar-02&theme=dark&layout=compact&hide_border=false&hide=handlebars,scss,batchfile,ejs)
 
-# 🤝 Connect with me:
+## 📫 Let's Connect
 <p align="left">
 <a href="https://www.x.com/AmanKumarr04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amankumarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar" height="30" width="40" /></a>
