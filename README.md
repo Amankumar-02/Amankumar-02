@@ -226,9 +226,15 @@
 <!-- ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) -->
 
 ## 🚀 Projects
-🎵 [EchoTunes](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — A full-featured MERN stack music streaming app <br/>
-🎬 [StreamBlaze](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — A YouTube-inspired media streaming platform <br/>
-🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with auth, wishlist, cart
+### 🔋 Full-Stack Projects
+🎞️ [StreamReels](https://github.com/Amankumar-02/StreamReels) — A reel viewing and posting platform <br/>
+🎥 [StreamBlaze](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — A YouTube-inspired media streaming platform <br/>
+🎵 [EchoTunes](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — A full-featured MERN stack music streaming app
+
+### 🎨 Frontend Projects
+🛒 [Gadget Glance](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — E-commerce for electronics with auth, wishlist, cart <br/>
+👩🏻‍💻 [MindMirror](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app) — A blog posting app to publically share thoughts <br/>
+🍱 [Food Explorer](https://github.com/Amankumar-02/Food-Explorer) — Food ordering app, one stop for all your cravings
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/><br/>
