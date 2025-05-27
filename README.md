@@ -1,5 +1,16 @@
 <!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
-# 👋 Hi, I'm Aman Kumar
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
+<h1 align="center">Hi 👋, I'm Aman Kumar!</h1>
+<!-- <div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div> -->
+<h3 align="center">A Passionate Full Stack Developer from India
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h3>
+
+  
+<!-- # 👋 Hi, I'm Aman Kumar -->
 
 ## 💫 About Me:
 <!-- 💻 **Full-Stack Developer** working with the **MERN stack**  
