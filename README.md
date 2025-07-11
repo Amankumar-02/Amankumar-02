@@ -18,13 +18,14 @@
 🧠 Passionate about **writing clean code**, exploring **modern dev tools**, and **system design**  
 🌱 **#learninginpublic** as I grow into a well-rounded **software engineer**  
 🎥 Sharing insights on **tech, code, and productivity** from my journey -->
-💻 **Ambitious Full-Stack Developer** with strong foundation in the **MERN stack**  
+🎯 **Self-taught Full-Stack Developer** with a strong foundation in the **MERN Stack**  
+⚙️ Building scalable apps using React.js, Next.js, Node.js, MongoDB, PostgreSQL & more...  
+💬 Passionate about clean code, real-time features, performance optimization & scalable architecture  
 🚀 Eager to contribute fresh perspectives and innovative solutions to challenging projects  
-📈 Actively building expertise in **app performance optimization** & **scalable architecture**  
-🧠 Committed to **clean, maintainable code** and **modern development practices**  
 ⚡ Proven ability to quickly master new technologies and adapt to evolving requirements  
-🌱 Documenting my **#learninginpublic** journey to become an exceptional **software engineer**  
-🔍 Seeking opportunities where I can make meaningful impact while continuously growing  
+🌐 I love building projects that solve real-world problems  
+<!-- 🌱 Documenting my **#learninginpublic** journey to become an exceptional **software engineer**  -->
+<!-- 🔍 Seeking opportunities where I can make meaningful impact while continuously growing  -->
 
 <!-- <a href="https://www.github.com/Amankumar-02" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
