@@ -18,14 +18,32 @@
 🧠 Passionate about **writing clean code**, exploring **modern dev tools**, and **system design**  
 🌱 **#learninginpublic** as I grow into a well-rounded **software engineer**  
 🎥 Sharing insights on **tech, code, and productivity** from my journey -->
-🎯 **Self-taught Full-Stack Developer** with a strong foundation in the **MERN Stack**  
+<!-- 🎯 **Self-taught Full-Stack Developer** with a strong foundation in the **MERN Stack**  
 ⚙️ Building scalable apps using React.js, Next.js, Node.js, MongoDB, PostgreSQL & more...  
 💬 Passionate about clean code, real-time features, performance optimization & scalable architecture  
 🚀 Eager to contribute fresh perspectives and innovative solutions to challenging projects  
 ⚡ Proven ability to quickly master new technologies and adapt to evolving requirements  
-🌐 I love building projects that solve real-world problems  
+🌐 I love building projects that solve real-world problems  -->
 <!-- 🌱 Documenting my **#learninginpublic** journey to become an exceptional **software engineer**  -->
 <!-- 🔍 Seeking opportunities where I can make meaningful impact while continuously growing  -->
+<!-- new 04-26 -->
+<!-- 🎯 Self-taught Full-Stack Developer specializing in modern web technologies  
+⚙️ Building scalable, high-performance applications using MERN, Next.js, and PostgreSQL  
+💡 Strong interest in system design, performance optimization, and real-time architectures  
+🌱 I’m currently learning - System design, advanced backend development, and DSA
+🚀 I build solutions that solve real-world problems with clean, maintainable code  
+📚 Continuously learning, adapting, and exploring new technologies  
+🤝 Open to collaboration, freelance work, and full-time opportunities -->
+🎯 Self-taught Full-Stack Developer specializing in modern web technologies  
+⚙️ Building scalable, high-performance applications using MERN, Next.js, and PostgreSQL  
+💡 Focused on clean code, performance optimization, and system design  
+🌱 Currently learning: advanced backend development, scalability, and DSA  
+🚀 I build real-world projects that solve practical problems with maintainable and efficient solutions  
+📚 Learning in public and continuously improving as a developer  
+
+🤝 Open to collaboration, freelance work, and full-time opportunities  
+💬 Ask me about React, Node.js, MongoDB, REST APIs, and full-stack development  
+
 
 <!-- <a href="https://www.github.com/Amankumar-02" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -38,6 +56,7 @@ src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-
 [![Gmail](https://img.shields.io/badge/-Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) -->
+
 
 ## 💻 Tech Stack:
 <!-- ### 🧱 Languages & Fundamentals
