@@ -39,7 +39,7 @@
 💡 Focused on clean code, performance optimization, and system design  
 🌱 Currently learning: advanced backend development, scalability, and DSA  
 🚀 I build real-world projects that solve practical problems with maintainable and efficient solutions  
-📚 Learning in public and continuously improving as a developer  
+<!-- 📚 Learning in public and continuously improving as a developer  -->
 
 🤝 Open to collaboration, freelance work, and full-time opportunities  
 💬 Ask me about React, Node.js, MongoDB, REST APIs, and full-stack development  
