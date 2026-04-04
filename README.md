@@ -4,25 +4,37 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Aman Kumar!</h1>
+<h1 align="center">Hi 👋, I'm Aman Kumar 👨‍💻</h1>
 
 ###
 
-<p align="center">A Passionate Full Stack Developer from India
+<h3 align="center">A Passionate Software Developer from India
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-</p>
+</h3>
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ###
 
-<h2 align="left">💫 About Me:</h2>
+<!-- <h2 align="left">🎯 About me</h2> -->
+## 🎯 About Me <img align="right" src="https://img.shields.io/badge/PROFILE%20VIEWS-82-blue" alt="Profile Views"/> 
 
 ###
 
-<p align="left">🎯 Self-taught Full-Stack Developer specializing in modern web technologies<br>⚙️ Building scalable, high-performance applications using MERN, Next.js, and PostgreSQL<br>💡 Focused on clean code, performance optimization, and system design<br>🌱 Currently learning: advanced backend development, scalability, and DSA<br>🚀 I build real-world projects that solve practical problems with maintainable and efficient solutions<br><br>🤝 Open to collaboration, freelance work, and full-time opportunities<br>💬 Ask me about React, Node.js, MongoDB, REST APIs, and full-stack development</p>
+I'm a self-taught Full-Stack Developer building high-performance, scalable web applications with modern technologies, and exploring AI-driven solutions.  
+
+💻 Tech Stack: MERN, TypeScript, Java, Next.js, and PostgreSQL  
+🤖 Focus Areas: Performance Optimization, Scalability, and Clean Architecture  
+📚 Currently Learning: Advanced Backend Development, System Design, and DSA  
+🚀 Projects: Building real-world applications that solve practical problems  
+🤝 Let's Connect: Open to collaboration, freelance work, and full-time opportunities  
+💬 Ask me about React, Node.js, MongoDB, REST APIs, and Full-Stack Development  
 
 ###
 
-<p align="left">🌐 Socials:</p>
+## 🌐 Connect with Me
+<!-- <p align="left">🌐 Socials:</p> -->
 
 ###
 
