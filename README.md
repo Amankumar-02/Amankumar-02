@@ -1,61 +1,51 @@
-<!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
-<!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]() -->
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Aman Kumar!</h1>
-<!-- <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div> -->
-<h3 align="center">A Passionate Full Stack Developer from India
+
+###
+
+<p align="center">A Passionate Full Stack Developer from India
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-</h3>
+</p>
 
-  
-<!-- # 👋 Hi, I'm Aman Kumar -->
+###
 
-## 💫 About Me:
-<!-- 💻 **Full-Stack Developer** working with the **MERN stack**  
-📈 Currently focused on **upskilling** with a deep dive into **app performance** & **scalability**  
-🧠 Passionate about **writing clean code**, exploring **modern dev tools**, and **system design**  
-🌱 **#learninginpublic** as I grow into a well-rounded **software engineer**  
-🎥 Sharing insights on **tech, code, and productivity** from my journey -->
-<!-- 🎯 **Self-taught Full-Stack Developer** with a strong foundation in the **MERN Stack**  
-⚙️ Building scalable apps using React.js, Next.js, Node.js, MongoDB, PostgreSQL & more...  
-💬 Passionate about clean code, real-time features, performance optimization & scalable architecture  
-🚀 Eager to contribute fresh perspectives and innovative solutions to challenging projects  
-⚡ Proven ability to quickly master new technologies and adapt to evolving requirements  
-🌐 I love building projects that solve real-world problems  -->
-<!-- 🌱 Documenting my **#learninginpublic** journey to become an exceptional **software engineer**  -->
-<!-- 🔍 Seeking opportunities where I can make meaningful impact while continuously growing  -->
-<!-- new 04-26 -->
-<!-- 🎯 Self-taught Full-Stack Developer specializing in modern web technologies  
-⚙️ Building scalable, high-performance applications using MERN, Next.js, and PostgreSQL  
-💡 Strong interest in system design, performance optimization, and real-time architectures  
-🌱 I’m currently learning - System design, advanced backend development, and DSA
-🚀 I build solutions that solve real-world problems with clean, maintainable code  
-📚 Continuously learning, adapting, and exploring new technologies  
-🤝 Open to collaboration, freelance work, and full-time opportunities -->
-🎯 Self-taught Full-Stack Developer specializing in modern web technologies  
-⚙️ Building scalable, high-performance applications using MERN, Next.js, and PostgreSQL  
-💡 Focused on clean code, performance optimization, and system design  
-🌱 Currently learning: advanced backend development, scalability, and DSA  
-🚀 I build real-world projects that solve practical problems with maintainable and efficient solutions  
-<!-- 📚 Learning in public and continuously improving as a developer  -->
+<h2 align="left">💫 About Me:</h2>
 
-🤝 Open to collaboration, freelance work, and full-time opportunities  
-💬 Ask me about React, Node.js, MongoDB, REST APIs, and full-stack development  
+###
 
+<p align="left">🎯 Self-taught Full-Stack Developer specializing in modern web technologies<br>⚙️ Building scalable, high-performance applications using MERN, Next.js, and PostgreSQL<br>💡 Focused on clean code, performance optimization, and system design<br>🌱 Currently learning: advanced backend development, scalability, and DSA<br>🚀 I build real-world projects that solve practical problems with maintainable and efficient solutions<br><br>🤝 Open to collaboration, freelance work, and full-time opportunities<br>💬 Ask me about React, Node.js, MongoDB, REST APIs, and full-stack development</p>
 
-<!-- <a href="https://www.github.com/Amankumar-02" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amankumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="Amankumar-02" /> </p> -->
+###
 
+<p align="left">🌐 Socials:</p>
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.x.com/AmanKumarr04/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) -->
+###
+
+<div align="left">
+  <a href="mailto:amankusdsmarr0109@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amankmarrfd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
 
 
 ## 💻 Tech Stack:
@@ -205,6 +195,38 @@ src="https://img.shields.io/github/followers/Amankumar-02?logo=github&style=for-
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
