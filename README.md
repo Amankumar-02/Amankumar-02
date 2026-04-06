@@ -25,9 +25,9 @@
 I'm a self-taught Full-Stack Developer building high-performance, scalable web applications with modern technologies, and exploring AI-driven solutions.  
 
 💻 Tech Stack: MERN, Next.js, TypeScript, PostgreSQL, Java  
-🤖 Focus Areas: Performance Optimization, Scalability, and Clean Architecture  
+🤖 Focus Areas: Performance Optimization, Real-time features, and Clean Architecture  
 📚 Currently Learning: Advanced Backend Development, System Design, and DSA  
-🚀 Projects: Building real-world applications that solve practical problems  
+🚀 Projects: Building full-stack applications that solve real-world problems  
 🤝 Let's Connect: Open to collaboration, freelance work, and full-time opportunities  
 💬 Ask me about React, Node.js, MongoDB, REST APIs, and Full-Stack Development  
 
