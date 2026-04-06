@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+</div> -->
 
 ###
 
@@ -24,7 +24,7 @@
 
 I'm a self-taught Full-Stack Developer building high-performance, scalable web applications with modern technologies, and exploring AI-driven solutions.  
 
-💻 Tech Stack: MERN, TypeScript, Java, Next.js, and PostgreSQL  
+💻 Tech Stack: MERN, Next.js, TypeScript, PostgreSQL, Java  
 🤖 Focus Areas: Performance Optimization, Scalability, and Clean Architecture  
 📚 Currently Learning: Advanced Backend Development, System Design, and DSA  
 🚀 Projects: Building real-world applications that solve practical problems  
