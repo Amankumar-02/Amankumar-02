@@ -18,18 +18,20 @@
 ###
 
 <!-- <h2 align="left">🎯 About me</h2> -->
-## 🎯 About Me <img align="right" src="https://img.shields.io/badge/PROFILE%20VIEWS-82-blue" alt="Profile Views"/> 
+## 💫 About Me <img align="right" src="https://img.shields.io/badge/PROFILE%20VIEWS-82-blue" alt="Profile Views"/> 
 
 ###
 
-I'm a self-taught Full-Stack Developer building high-performance, scalable web applications with modern technologies, and exploring AI-driven solutions.  
+<!--I'm a self-taught Full-Stack Developer strong foundation in the MERN stack, building high-performance, scalable web applications with modern technologies, solving complex problems, and exploring AI-driven solutions.  -->
+I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stack, building scalable, high-performance end-to-end web applications. I enjoy solving complex problems and exploring AI-driven solutions.  
 
-💻 Tech Stack: MERN, Next.js, TypeScript, PostgreSQL, Java  
-🤖 Focus Areas: Performance Optimization, REST APIs, and Clean Architecture  
-📚 Currently Learning: Advanced Backend Development, System Design, and DSA  
-🚀 Projects: Building full-stack applications that solve real-world problems  
-🤝 Let's Connect: Open to collaboration, freelance work, and full-time opportunities  
-💬 Ask me about React, Node.js, MongoDB, REST APIs, and Full-Stack Development  
+💻 **Tech Stack:** React, Node.js, MongoDB, TypeScript, Next.js, PostgreSQL, Java  
+🎯 **Focus Areas:** Clean Code, REST APIs, Performance Optimization, Responsive UI  
+🚀 **Projects:** Built and deployed full-stack applications that solve real-world problems | [Portfolio](https://amankumardev.site)  
+📚 **Currently Learning:** Advanced Backend Development, System Design, and DSA  
+🤝 **Let's Connect:** Open to collaboration, freelance work, and full-time opportunities | [amankumarr0109@gmail.com](mailto:amankumarr0109@gmail.com@gmail.com)  
+💬 **Ask me about** React, Node.js, MongoDB, REST APIs, and Full-Stack Development. Always happy to chat.  
+⚡ **Fun Fact:** I can solve a Rubik’s Cube in under a minute — commerce graduate turned tech enthusiast!  
 
 ###
 
