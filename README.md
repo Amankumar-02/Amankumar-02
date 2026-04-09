@@ -87,7 +87,7 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  ![Redux](./assets/redux.svg)  
+  ![Redux](./assets/reduxlogo.svg)  
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
@@ -116,7 +116,7 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
 
 🔐 Authentication & Security
 
-  ![JWT](./assets/jwt.svg)
+  ![JWT](./assets/jwtlogo.svg)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" height="40" alt="firebase logo"  />
 
