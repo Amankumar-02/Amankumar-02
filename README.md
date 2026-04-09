@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div> -->
+</div>
 
 ###
 
@@ -18,24 +18,26 @@
 ###
 
 <!-- <h2 align="left">🎯 About me</h2> -->
-## 💫 About Me <img align="right" src="https://img.shields.io/badge/PROFILE%20VIEWS-82-blue" alt="Profile Views"/> 
+## 💫 About Me <img align="right" src="https://img.shields.io/badge/Profile%20Views-82-blue" alt="Profile Views"/>  
+<!-- ## 💫 About Me <img align="right" src="https://komarev.com/ghpvc/?username=Amankumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="AmanKumar" />  -->
+<!-- ## 💫 About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Amankumar-02.Amankumar-02&" alt="AmanKumar" />  -->
 
 ###
 
-<!--I'm a self-taught Full-Stack Developer strong foundation in the MERN stack, building high-performance, scalable web applications with modern technologies, solving complex problems, and exploring AI-driven solutions.  -->
-I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stack, building scalable, high-performance end-to-end web applications. I enjoy solving complex problems and exploring AI-driven solutions.  
+<!-- I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stack, building scalable, high-performance end-to-end web applications. I enjoy solving complex problems and exploring AI-driven solutions.  -->
+I'm a self-taught Full-Stack Developer focused on building end-to-end web applications using the MERN stack. I enjoy solving real-world problems and exploring AI-driven solutions.  
 
 💻 **Tech Stack:** React, Node.js, MongoDB, TypeScript, Next.js, PostgreSQL, Java  
 🎯 **Focus Areas:** Clean Code, REST APIs, Performance Optimization, Responsive UI  
-🚀 **Projects:** Built and deployed full-stack applications that solve real-world problems | [Portfolio](https://amankumardev.site)  
+🚀 **Projects:** Check out my work at [https://amankumardev.site](https://amankumardev.site)  
 📚 **Currently Learning:** Advanced Backend Development, System Design, and DSA  
-🤝 **Let's Connect:** Open to collaboration, freelance work, and full-time opportunities | [amankumarr0109@gmail.com](mailto:amankumarr0109@gmail.com@gmail.com)  
-💬 **Ask me about** React, Node.js, MongoDB, REST APIs, and Full-Stack Development. Always happy to chat.  
-⚡ **Fun Fact:** I can solve a Rubik’s Cube in under a minute — commerce graduate turned tech enthusiast!  
+🤝 **Open to** internships, freelance work, and full-time opportunities  
+📫 **Reach me at:** [amankumarr0109@gmail.com](mailto:amankumarr0109@gmail.com@gmail.com)  
+⚡ **Fun Fact:** I can solve a Rubik’s Cube in under a minute 
 
 ###
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ###
 
@@ -80,6 +82,37 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
 </div>
 
 ###
+
+###
+
+## 🌐 Connect with Me
+
+###
+
+<div align="left">
+  <a href="mailto:amankusdsmarr0109@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amankmarrfd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+
+###
+
+
 
 ## 🚀 Projects:
 <!-- one -->
