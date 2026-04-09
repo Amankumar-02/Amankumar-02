@@ -397,6 +397,8 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
 </div>
 
 
+![JWT](./assets/logo.svg)
+
 
 ## 🚀 Projects:
 <!-- one -->
