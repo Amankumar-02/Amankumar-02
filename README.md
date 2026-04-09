@@ -74,17 +74,17 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
   <img width="12" />
   <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/redux.svg" height="50" alt="redux logo"  /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/nextjs.svg" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/express.svg" height="50" alt="express logo"  />
+  <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/express.svg" height="50" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" height="50" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" height="50" alt="mongoose logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
@@ -94,6 +94,8 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" height="50" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/socketio.svg" height="50" alt="socketio logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/tailwind.svg" height="50" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap logo"  />
@@ -102,15 +104,13 @@ I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
 </div>
 
 ###
