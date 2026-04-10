@@ -24,7 +24,6 @@
 
 ###
 
-<!-- I'm a self-taught Full-Stack Developer with a strong foundation in the MERN stack, building scalable, high-performance end-to-end web applications. I enjoy solving complex problems and exploring AI-driven solutions.  -->
 I'm a self-taught Full-Stack Developer focused on building end-to-end web applications using the MERN stack. I enjoy solving real-world problems and exploring AI-driven solutions.  
 
 💻 **Tech Stack:** React, Node.js, MongoDB, TypeScript, Next.js, PostgreSQL, Java  
@@ -88,12 +87,11 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 ## 🌐 Connect with Me
 
 ###
-
-- 📧 Email: amankumarr0109@gmail.com  
+<!-- - 📧 Email: amankumarr0109@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/amankumarr  
 - 💻 GitHub: https://github.com/Amankumar-02  
 - 🐦 Twitter: https://x.com/AmanKumarr04  
-- 🎮 Discord: https://discord.gg/amank007  
+- 🎮 Discord: https://discord.gg/amank007  -->
 
 <div align="left">
   <a href="mailto:amankumarr0109@gmail.com" target="_blank">
@@ -116,36 +114,57 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 ###
 
 ## 🚀 Featured Projects
-<!-- one -->
-### 🔋 Full-Stack Projects:
-<!-- 🎞️ [![StreamReels](https://img.shields.io/badge/-StreamReels-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamReels) — Authentic reels platform: browse, share, engage with vertical content. <br/>
-🎥 [![StreamBlaze](https://img.shields.io/badge/-StreamBlaze-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app) — Video streaming platform offering YouTube-like features and functionality. <br/>
-🎵 [![EchoTunes](https://img.shields.io/badge/-EchoTunes-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app) — Stream your favorite music anytime, anywhere with ease. -->
 
-<!-- two -->
-[![StreamReels](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamReels&title_color=22c55e&text_color=fffff3&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamReels)
-[![StreamBlaze](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=StreamBlaze---Video-streaming-app&title_color=22c55e&text_color=fffff3&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app)
-[![EchoTunes](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=EchoTunes---Music-streaming-app&title_color=22c55e&text_color=fffff3&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/EchoTunes---Music-streaming-app)
+###
 
-<!-- three -->
-<!-- ### 🎞️ <u>StreamReels</u> 
-A short-form video sharing platform with responsive design and custom playback UI.  
-🔗 [GitHub Repository](https://github.com/Amankumar-02/StreamReels)  
-🛠️ **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Appwrite, React Hook Form, Zod, ShadCN/UI <br />
-### 💻 StreamBlaze  
-A media streaming app inspired by YouTube with upload, like, comment, and subscription features.  
-🔗 [GitHub Repository](https://github.com/Amankumar-02/StreamBlaze---Video-streaming-app)  
-🛠️ **Tech Stack**: MongoDB, Express.js, React.js, Node.js, Cloudinary, JWT -->
+### **💻 StreamBlaze – Video Streaming Platform**  
+**Tech:** React.js, Node.js, Express, MongoDB, JWT, TailwindCSS  
+🔗 [www.streamblaze.vercel.app](https://streamblaze.vercel.app/)  
 
-### 🎨 Frontend Projects:
-<!-- one -->
-<!-- 🛒 [![Gadget Glance](https://img.shields.io/badge/-Gadget_Glance-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite) — Streamlined e-commerce platform for discovering and purchasing premium electronic devices. <br/>
-👩🏻‍💻 [![MindMirror](https://img.shields.io/badge/-MindMirror-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app) — A public platform where thoughts transform into shared digital reflections. <br/>
-🍱 [![Food Explorer](https://img.shields.io/badge/-Food_Explorer-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/Food-Explorer) — One-stop food ordering app: explore, crave, order, enjoy. -->
-<!-- two -->
-[![Gadget Glance](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&title_color=22c55e&text_color=fffff3&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/GadgetGlance-Ecommerce-WebSite)
-[![MindMirror](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Mind-Mirror---A-blog-sharing-app&title_color=22c55e&text_color=fffff3&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Mind-Mirror---A-blog-sharing-app)
-[![Food Explorer](https://github-readme-stats.vercel.app/api/pin/?username=amankumar-02&repo=Food-Explorer&title_color=22c55e&text_color=fffff3&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Amankumar-02/Food-Explorer)
+- Built a full-stack platform with **authentication, video uploads**, and **subscription flow**.  
+- Designed **15+ REST APIs** for videos, users, and interactions.  
+- Implemented core features like **comments, likes**, and **channel-based content browsing**.  
+
+---
+
+### **🎞️ StreamReels – Short Video Platform**  
+**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Clerk Auth  
+🔗 [www.streamreels.vercel.app](https://streamreels.vercel.app/)  
+
+- Developed a short-video app using **Next.js with server-side rendering**.  
+- Designed relational schema with Prisma to manage **users, videos**, and **engagement**.  
+- Built features like **likes, comments, saved videos**, and **user dashboard**.  
+
+---
+
+### **🛒 Gadget Glance – E-commerce Application**  
+**Tech:** React.js, Redux, TailwindCSS, Firebase, Stripe  
+🔗 [www.gadget-glance.netlify.app](https://gadget-glance.netlify.app/)  
+
+- Integrated **live product APIs** and built dynamic product listing pages.  
+- Implemented **cart, wishlist**, and **global state management using Redux**.  
+- Added **Stripe-based checkout** for complete order flow.  
+<!-- ---
+
+### **🧠 MindMirror – Blogging Platform**  
+**Tech:** React.js, Redux, TailwindCSS, Appwrite  
+🔗 [www.marriagebiodatacreator.com](https://www.marriagebiodatacreator.com/)  
+
+- Built a blogging app supporting **create, edit**, and **delete post workflows**.  
+- Integrated Appwrite for **authentication and backend services**.  
+- Managed application state for **smooth content publishing experience**.  -->
+
+###
+
+## 🏆 Certificates & Achievements
+
+###
+
+- MERN Full-Stack Development - 30DaysCoding [🔗](https://courses.30dayscoding.com/share-certificate?serialno=JNJRZJZM)
+- Namaste JavaScript - Akshay Saini [🔗](https://namastedev.com/amankumarr0109/certificates/namaste-javascript/)
+- Web Development Bootcamp - Udemy [🔗](https://www.udemy.com/certificate/UC-947787e2-7ccb-4078-b245-00b235556e94/)
+
+###
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/><br/>
