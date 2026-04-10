@@ -89,32 +89,33 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
+- 📧 Email: amankumarr0109@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/amankumarr  
+- 💻 GitHub: https://github.com/Amankumar-02  
+- 🐦 Twitter: https://x.com/AmanKumarr04  
+- 🎮 Discord: https://discord.gg/amank007  
+
 <div align="left">
-  <a href="mailto:amankusdsmarr0109@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:amankumarr0109@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/gmail.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/amankmarrfd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/amankumarr" target="_blank">
+    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://github.com/Amankumar-02" target="_blank">
+    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/github.svg" width="52" height="40" alt="github logo"  />
+  </a>
+  <a href="https://x.com/AmanKumarr04" target="_blank">
+    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/x.svg" width="52" height="40" alt="x logo"  />
+  </a>
+  <a href="https://discord.gg/amank007" target="_blank">
+    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/discord.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://www.x.com/AmanKumarr04/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/amankumarr/) 
-[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:amankumarr0109@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://www.amankumardev.site/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
-
-###
-
-
-
-## 🚀 Projects:
+## 🚀 Featured Projects
 <!-- one -->
 ### 🔋 Full-Stack Projects:
 <!-- 🎞️ [![StreamReels](https://img.shields.io/badge/-StreamReels-C71610?logo=&logoColor=white)](https://github.com/Amankumar-02/StreamReels) — Authentic reels platform: browse, share, engage with vertical content. <br/>
