@@ -167,9 +167,22 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amankumar-02&show_icons=true&theme=dark&include_all_commits=false&count_private=false) <br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amankumar-02&theme=dark&hide_border=false) <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar-02&theme=dark&layout=compact&hide_border=false&hide=handlebars,scss,batchfile,ejs)
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Amankumar-02&locale=en&mode=daily&theme=blood-dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+###
+
+
 <!-- <a href="https://github.com/amankumar-02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-02&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <!-- ## 🔝 Top Contributed Repo
