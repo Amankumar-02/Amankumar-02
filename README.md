@@ -31,7 +31,7 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 🚀 **Projects:** Check out my work at [https://amankumardev.site](https://amankumardev.site)  
 📚 **Currently Learning:** Advanced Backend Development, System Design, and DSA  
 🤝 **Open to** internships, freelance work, and full-time opportunities  
-📫 **Reach me at:** [amankumarr0109@gmail.com](mailto:amankumarr0109@gmail.com@gmail.com)  
+📫 **Reach me at:** [amankumarr0109@gmail.com](mailto:amankumarr0109@gmail.com)  
 ⚡ **Fun Fact:** I can solve a Rubik’s Cube in under a minute 
 
 ###
@@ -87,28 +87,13 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 ## 🌐 Connect with Me
 
 ###
-<!-- - 📧 Email: amankumarr0109@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/amankumarr  
-- 💻 GitHub: https://github.com/Amankumar-02  
-- 🐦 Twitter: https://x.com/AmanKumarr04  
-- 🎮 Discord: https://discord.gg/amank007  -->
 
 <div align="left">
-  <a href="mailto:amankumarr0109@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/gmail.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/amankumarr" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/Amankumar-02" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/github.svg" width="52" height="40" alt="github logo"  />
-  </a>
-  <a href="https://x.com/AmanKumarr04" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/x.svg" width="52" height="40" alt="x logo"  />
-  </a>
-  <a href="https://discord.gg/amank007" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/discord.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <a href="mailto:amankumarr0109@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/gmail.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://linkedin.com/in/amankumarr" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://github.com/Amankumar-02" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/github.svg" width="52" height="40" alt="github logo"  /></a>
+  <a href="https://x.com/AmanKumarr04" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/x.svg" width="52" height="40" alt="x logo"  /></a>
+  <a href="https://discord.gg/amank007" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/discord.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
 
 ###
@@ -122,7 +107,7 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 🔗 [www.streamblaze.vercel.app](https://streamblaze.vercel.app/)  
 
 - Built a full-stack platform with **authentication, video uploads**, and **subscription flow**.  
-- Designed **15+ REST APIs** for videos, users, and interactions.  
+- Designed **REST APIs** for videos, users, and interactions.  
 - Implemented core features like **comments, likes**, and **channel-based content browsing**.  
 
 ---
@@ -148,7 +133,7 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ### **🧠 MindMirror – Blogging Platform**  
 **Tech:** React.js, Redux, TailwindCSS, Appwrite  
-🔗 [www.marriagebiodatacreator.com](https://www.marriagebiodatacreator.com/)  
+🔗 [www.mind-mirror.netlify.app](https://mind-mirror.netlify.app/)  
 
 - Built a blogging app supporting **create, edit**, and **delete post workflows**.  
 - Integrated Appwrite for **authentication and backend services**.  
@@ -181,20 +166,3 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 </p>
 
 ###
-
-
-<!-- <a href="https://github.com/amankumar-02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-02&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
-<!-- ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amankumar-02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
-
-<!-- ## 🌐 Socials:
-<p align="left">
-<a href="https://www.x.com/AmanKumarr04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amankumarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar" height="30" width="40" /></a>
-<a href="https://www.github.com/Amankumar-02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aman-kumar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman-kumar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman-kumar" height="30" width="40" /></a>
-</p> -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in.) -->
