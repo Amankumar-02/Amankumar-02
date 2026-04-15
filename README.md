@@ -87,11 +87,15 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 ###
 
 <div align="left">
-  <a href="mailto:amankumarr0109@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/gmail.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://linkedin.com/in/amankumarr" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://github.com/Amankumar-02" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/github.svg" width="52" height="40" alt="github logo"  /></a>
-  <a href="https://x.com/AmanKumarr04" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/x.svg" width="52" height="40" alt="x logo"  /></a>
-  <a href="https://discord.gg/amank007" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/discord.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="mailto:amankumarr0109@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/gmail.svg" height="50" alt="gmail logo"  /></a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/amankumarr" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/linkedin.svg" height="50" alt="linkedin logo"  /></a>
+  <img width="12" />
+  <a href="https://github.com/Amankumar-02" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/github.svg" height="50" alt="github logo"  /></a>
+  <img width="12" />
+  <a href="https://x.com/AmanKumarr04" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/x.svg" height="50" alt="x logo"  /></a>
+  <img width="12" />
+  <a href="https://discord.gg/amank007" target="_blank"><img src="https://raw.githubusercontent.com/Amankumar-02/Amankumar-02/main/assets/discord.svg" height="50" alt="discord logo"  /></a>
 </div>
 
 ###
