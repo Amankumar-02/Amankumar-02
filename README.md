@@ -82,8 +82,6 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
-###
-
 ## 🌐 Connect with Me
 
 ###
