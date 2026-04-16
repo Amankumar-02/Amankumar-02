@@ -157,8 +157,10 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Amankumar-02&locale=en&mode=daily&theme=blood-dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar-02&theme=dracula&hide_border=false" height="200" alt=""  />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-02&theme=dracula&hide=handlebars,scss&langs_count=4&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt=""  />
 </div>
 
 ###
