@@ -3,29 +3,19 @@
 </div> -->
 ###
 
-<h1 align="center">Hi 👋, I'm Aman Kumar 👨‍💻</h1>
-
-###
-
-<h3 align="center">A Passionate Software Developer from India
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-</h3>
-<div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<h1 align="left">Hi 👋, I'm Aman Kumar</h1>
 
 ###
 
 <!-- <h2 align="left">🎯 About me</h2> -->
-## 💫 About Me <img align="right" src="https://img.shields.io/badge/Profile%20Views-82-blue" alt="Profile Views"/>  
 <!-- ## 💫 About Me <img align="right" src="https://komarev.com/ghpvc/?username=Amankumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="AmanKumar" />  -->
 <!-- ## 💫 About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Amankumar-02.Amankumar-02&" alt="AmanKumar" />  -->
 
 ###
 
-I'm a self-taught Full-Stack Developer focused on building end-to-end web applications using the MERN stack. I enjoy solving real-world problems and exploring AI-driven solutions.  
+I'm a Full-Stack Developer (Self-taught) with a strong foundation in the MERN stack, building scalable, high-performance end-to-end web applications. I enjoy solving real-world problems and exploring AI-driven solutions.  
 
-💻 **Tech Stack:** React, Node.js, MongoDB, TypeScript, Next.js, PostgreSQL, Java  
+💻 **Tech Stack:** React, Node.js, MongoDB, TypeScript, Next.js, PostgreSQL  
 🎯 **Focus Areas:** Clean Code, REST APIs, Performance Optimization, Responsive UI  
 🚀 **Projects:** Check out my work at [https://amankumardev.site](https://amankumardev.site)  
 📚 **Currently Learning:** Advanced Backend Development, System Design, and DSA  
@@ -99,25 +89,12 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
-## 🚀 Top Repositories
+## 🏆 Learning & Certifications
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=StreamBlaze&theme=dracula" height="200" alt=""  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=StreamReels&theme=dracula" height="200" alt=""  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&theme=dracula" height="200" alt=""  />
-</div>
-
-###
-
-## 🏆 Certificates & Achievements
-
-###
-
-- MERN Full-Stack Development - 30DaysCoding [🔗](https://courses.30dayscoding.com/share-certificate?serialno=JNJRZJZM)
-- Namaste JavaScript - Akshay Saini [🔗](https://namastedev.com/amankumarr0109/certificates/namaste-javascript/)
 - Web Development Bootcamp - Udemy [🔗](https://www.udemy.com/certificate/UC-947787e2-7ccb-4078-b245-00b235556e94/)
+- Namaste JavaScript - Akshay Saini [🔗](https://namastedev.com/amankumarr0109/certificates/namaste-javascript/)
 
 ###
 
