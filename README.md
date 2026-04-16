@@ -104,42 +104,13 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
-### **💻 StreamBlaze – Video Streaming Platform**  
-**Tech:** React.js, Node.js, Express, MongoDB, JWT, TailwindCSS  
-🔗 [www.streamblaze.vercel.app](https://streamblaze.vercel.app/)  
-
-- Built a full-stack platform with **authentication, video uploads**, and **subscription flow**.  
-- Designed **REST APIs** for videos, users, and interactions.  
-- Implemented core features like **comments, likes**, and **channel-based content browsing**.  
-
----
-
-### **🎞️ StreamReels – Short Video Platform**  
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Clerk Auth  
-🔗 [www.streamreels.vercel.app](https://streamreels.vercel.app/)  
-
-- Developed a short-video app using **Next.js with server-side rendering**.  
-- Designed relational schema with Prisma to manage **users, videos**, and **engagement**.  
-- Built features like **likes, comments, saved videos**, and **user dashboard**.  
-
----
-
-### **🛒 Gadget Glance – E-commerce Application**  
-**Tech:** React.js, Redux, TailwindCSS, Firebase, Stripe  
-🔗 [www.gadget-glance.netlify.app](https://gadget-glance.netlify.app/)  
-
-- Integrated **live product APIs** and built dynamic product listing pages.  
-- Implemented **cart, wishlist**, and **global state management using Redux**.  
-- Added **Stripe-based checkout** for complete order flow.  
-<!-- ---
-
-### **🧠 MindMirror – Blogging Platform**  
-**Tech:** React.js, Redux, TailwindCSS, Appwrite  
-🔗 [www.mind-mirror.netlify.app](https://mind-mirror.netlify.app/)  
-
-- Built a blogging app supporting **create, edit**, and **delete post workflows**.  
-- Integrated Appwrite for **authentication and backend services**.  
-- Managed application state for **smooth content publishing experience**.  -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=StreamBlaze&theme=dracula" height="200" alt=""  />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=StreamReels&theme=dracula" height="200" alt=""  />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&theme=dracula" height="200" alt=""  />
+</div>
 
 ###
 
@@ -157,10 +128,11 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar-02&theme=dracula&hide_border=false" height="200" alt=""  />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar-02&theme=dracula&hide_border=false" height="170" alt=""  />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-02&theme=dracula&hide=handlebars,scss&langs_count=4&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-02&layout=compact&theme=dracula&hide=handlebars,scss&langs_count=5" height="170" alt=""  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar-02&layout=donut&theme=dracula&hide=handlebars,scss&langs_count=5" height="170" alt=""  /> -->
 </div>
 
 ###
