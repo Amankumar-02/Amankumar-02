@@ -1,7 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
+</div> -->
 ###
 
 <h1 align="center">Hi 👋, I'm Aman Kumar 👨‍💻</h1>
@@ -100,15 +99,13 @@ I'm a self-taught Full-Stack Developer focused on building end-to-end web applic
 
 ###
 
-## 🚀 Featured Projects
+## 🚀 Top Repositories
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=StreamBlaze&theme=dracula" height="200" alt=""  />
-  <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=StreamReels&theme=dracula" height="200" alt=""  />
-  <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-02&repo=GadgetGlance-Ecommerce-WebSite&theme=dracula" height="200" alt=""  />
 </div>
 
