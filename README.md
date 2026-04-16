@@ -13,7 +13,7 @@
 
 ###
 
-I'm a Full-Stack Developer (Self-taught) with a strong foundation in the MERN stack, building scalable, high-performance end-to-end web applications. I enjoy solving real-world problems and exploring AI-driven solutions.  
+I'm a Full-Stack Developer (Self-taught) with a strong foundation in the MERN stack, focused on building scalable, high-performance web applications. I enjoy solving real-world problems and exploring AI-driven solutions.  
 
 💻 **Tech Stack:** React, Node.js, MongoDB, TypeScript, Next.js, PostgreSQL  
 🎯 **Focus Areas:** Clean Code, REST APIs, Performance Optimization, Responsive UI  
